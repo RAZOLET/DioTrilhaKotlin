@@ -10,4 +10,5 @@ fun main() {
 
     println(rafael.nome)
     println(rafael.cpf)
+
 }
